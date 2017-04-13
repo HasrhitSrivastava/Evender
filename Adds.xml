@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+ <Ad>
+    <ImageUrl>~/images/doctor.jpg</ImageUrl>  
+   <Width>350</Width>
+    <Height>300</Height>
+    <NavigateUrl>http://www.google.co.in</NavigateUrl>
+    <AlternateText>Pic not Available</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+ </Ad>
+ <Ad>
+    <ImageUrl>~/images/ed11.jpg</ImageUrl>
+   <Width>350</Width>
+    <Height>300</Height>
+    <NavigateUrl>http://www.google.co.in</NavigateUrl>
+    <AlternateText>Pic not Available</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>small</Keyword>
+ </Ad>
+ <Ad>
+    <ImageUrl>~/images/ed11.jpg</ImageUrl>
+    <Width>350</Width>
+    <Height>300</Height>
+    <NavigateUrl>http://www.google.co.in</NavigateUrl>
+    <AlternateText>Pic not Available</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+ </Ad> 
+<Ad>
+    <ImageUrl>~/images/desserts.jpg</ImageUrl>
+    <Width>350</Width>
+    <Height>300</Height>
+    <NavigateUrl>http://www.google.co.in</NavigateUrl>
+    <AlternateText>Pic not Available</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+ </Ad>
+<Ad>
+    <ImageUrl>~/images/eng.jpg</ImageUrl>
+    <Width>350</Width>
+    <Height>300</Height>
+    <NavigateUrl>http://www.google.co.in</NavigateUrl>
+    <AlternateText>Pic not Available</AlternateText>
+    <Impressions>40</Impressions>
+    <Keyword>small</Keyword>
+ </Ad>
+</Advertisements>
